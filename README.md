@@ -173,7 +173,9 @@ sections; the audit pairs each reliability requirement (Failure Modes) with its 
 > **Evaluation** · what signal diagnoses the current system.
 
 
-**↪️ Jump to:** [2.1 Evaluation Forms as Feedback Signals](#21-evaluation-forms-as-feedback-signals) (58) · [2.2 Signal Reliability Across Model Types](#22-signal-reliability-across-model-types) (7)
+**↪️ Jump to:**<br>
+[2.1 Evaluation Forms as Feedback Signals](#21-evaluation-forms-as-feedback-signals) (58)<br>
+[2.2 Signal Reliability Across Model Types](#22-signal-reliability-across-model-types) (7)
 
 
 ### 2.1 Evaluation Forms as Feedback Signals
@@ -291,7 +293,13 @@ sections; the audit pairs each reliability requirement (Failure Modes) with its 
 > **Orchestration** · who decides how to act on the signal.
 
 
-**↪️ Jump to:** [3.1 A Data-Centric Decision Space](#31-a-data-centric-decision-space) (24) · [3.2 Selecting Data by Downstream Utility](#32-selecting-data-by-downstream-utility) (25) · [3.3 Representative Adaptive Data-Orchestration Systems and Their Recursive Boundaries](#33-representative-adaptive-data-orchestration-systems-and-their-recursive-boundaries) (1) · [3.4 Controller Topologies as Implementations](#34-controller-topologies-as-implementations) (10) · [3.5 Routing Decisions Across Stages and Model Types](#35-routing-decisions-across-stages-and-model-types) (3) · [3.6 Evidence Standards and Auditability](#36-evidence-standards-and-auditability) (3)
+**↪️ Jump to:**<br>
+[3.1 A Data-Centric Decision Space](#31-a-data-centric-decision-space) (24)<br>
+[3.2 Selecting Data by Downstream Utility](#32-selecting-data-by-downstream-utility) (25)<br>
+[3.3 Representative Adaptive Data-Orchestration Systems and Their Recursive Boundaries](#33-representative-adaptive-data-orchestration-systems-and-their-recursive-boundaries) (1)<br>
+[3.4 Controller Topologies as Implementations](#34-controller-topologies-as-implementations) (10)<br>
+[3.5 Routing Decisions Across Stages and Model Types](#35-routing-decisions-across-stages-and-model-types) (3)<br>
+[3.6 Evidence Standards and Auditability](#36-evidence-standards-and-auditability) (3)
 
 - [A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence](https://mlanthology.org/tmlr/2026/gao2026tmlr-survey/) `2026` `TMLR`
 - [DataMaster: Data-Centric Autonomous AI Research](https://scholar.google.com/scholar?q=DataMaster%3A+Data-Centric+Autonomous+AI+Research) 🔍 `2026` `arXiv`
@@ -451,7 +459,12 @@ sections; the audit pairs each reliability requirement (Failure Modes) with its 
 > **Execution** · what object is updated to affect the next round.
 
 
-**↪️ Jump to:** [4.1 Pre-training: Evaluation-Triggered Data Interventions](#41-pre-training-evaluation-triggered-data-interventions) (48) · [4.2 Supervised Finetuning: Evaluation-Guided Instruction Data Construction](#42-supervised-finetuning-evaluation-guided-instruction-data-construction) (24) · [4.3 Reinforcement Learning and Preference Optimization](#43-reinforcement-learning-and-preference-optimization) (29) · [4.4 On-Policy Distillation from Teacher Feedback](#44-on-policy-distillation-from-teacher-feedback) (11) · [4.5 Context and Memory as Data-Centric Adaptation](#45-context-and-memory-as-data-centric-adaptation) (34)
+**↪️ Jump to:**<br>
+[4.1 Pre-training: Evaluation-Triggered Data Interventions](#41-pre-training-evaluation-triggered-data-interventions) (48)<br>
+[4.2 Supervised Finetuning: Evaluation-Guided Instruction Data Construction](#42-supervised-finetuning-evaluation-guided-instruction-data-construction) (24)<br>
+[4.3 Reinforcement Learning and Preference Optimization](#43-reinforcement-learning-and-preference-optimization) (29)<br>
+[4.4 On-Policy Distillation from Teacher Feedback](#44-on-policy-distillation-from-teacher-feedback) (11)<br>
+[4.5 Context and Memory as Data-Centric Adaptation](#45-context-and-memory-as-data-centric-adaptation) (34)
 
 - [AutoVQA-G: Self-Improving Agentic Framework for Automated Visual Question Answering and Grounding Annotation](https://scholar.google.com/scholar?q=AutoVQA-G%3A+Self-Improving+Agentic+Framework+for+Automated+Visual+Question+Answering+and+Grounding+Annotation) 🔍 `2026` `arXiv`
 - [Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training](https://arxiv.org/abs/2601.22781) `2026` `arXiv`
@@ -729,7 +742,12 @@ sections; the audit pairs each reliability requirement (Failure Modes) with its 
 > **Reliability audit** · when a higher score is not yet evidence.
 
 
-**↪️ Jump to:** [5.1 Invalid or Incomplete Feedback Signals](#51-invalid-or-incomplete-feedback-signals) (4) · [5.2 Dependent or Exposed Feedback Signals](#52-dependent-or-exposed-feedback-signals) (4) · [5.3 Unstable Updates and Non-Monotonic Progress](#53-unstable-updates-and-non-monotonic-progress) (5) · [5.4 Data-Support Loss under Recursive Generation](#54-data-support-loss-under-recursive-generation) (7) · [5.5 Unattributable and Irreproducible System Changes](#55-unattributable-and-irreproducible-system-changes) (5)
+**↪️ Jump to:**<br>
+[5.1 Invalid or Incomplete Feedback Signals](#51-invalid-or-incomplete-feedback-signals) (4)<br>
+[5.2 Dependent or Exposed Feedback Signals](#52-dependent-or-exposed-feedback-signals) (4)<br>
+[5.3 Unstable Updates and Non-Monotonic Progress](#53-unstable-updates-and-non-monotonic-progress) (5)<br>
+[5.4 Data-Support Loss under Recursive Generation](#54-data-support-loss-under-recursive-generation) (7)<br>
+[5.5 Unattributable and Irreproducible System Changes](#55-unattributable-and-irreproducible-system-changes) (5)
 
 
 ### 5.1 Invalid or Incomplete Feedback Signals
@@ -784,7 +802,12 @@ sections; the audit pairs each reliability requirement (Failure Modes) with its 
 > **Reliability audit** · the research program that follows.
 
 
-**↪️ Jump to:** [6.1 Build Valid, Coverage-Aware Multimodal Signals](#61-build-valid-coverage-aware-multimodal-signals) (11) · [6.2 Establish and Scale Independent Feedback](#62-establish-and-scale-independent-feedback) (14) · [6.3 Measure and Control Update Stability](#63-measure-and-control-update-stability) (9) · [6.4 Scale Data while Preserving Support](#64-scale-data-while-preserving-support) (12) · [6.5 Localize and Reproduce System Changes](#65-localize-and-reproduce-system-changes) (11)
+**↪️ Jump to:**<br>
+[6.1 Build Valid, Coverage-Aware Multimodal Signals](#61-build-valid-coverage-aware-multimodal-signals) (11)<br>
+[6.2 Establish and Scale Independent Feedback](#62-establish-and-scale-independent-feedback) (14)<br>
+[6.3 Measure and Control Update Stability](#63-measure-and-control-update-stability) (9)<br>
+[6.4 Scale Data while Preserving Support](#64-scale-data-while-preserving-support) (12)<br>
+[6.5 Localize and Reproduce System Changes](#65-localize-and-reproduce-system-changes) (11)
 
 
 ### 6.1 Build Valid, Coverage-Aware Multimodal Signals
