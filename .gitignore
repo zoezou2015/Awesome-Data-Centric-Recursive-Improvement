@@ -1,0 +1,80 @@
+# ---------------------------------------------------------------- reference repo
+# Cloned only as a style reference for this project page. It is its own git repo,
+# so committing it would create a broken nested checkout.
+Self-Evolving-Agents/
+
+# ------------------------------------------------------------------- OS / editor
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----------------------------------------------------------------------- Python
+# build_readme.py is the only Python here, but keep the usual suspects out.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ------------------------------------------------------------ LaTeX build output
+# Regenerate with:  cd survey_last/arxiv && latexmk -pdf arxiv.tex
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+*.bcf
+*.run.xml
+*.spl
+*.dvi
+
+# Compiled PDFs of the paper sources are build products; the published copy
+# lives in paper/ and is whitelisted below.
+survey_last/**/*.pdf
+!survey_last/figures/**
+!survey_last/**/figures/**
+
+# The paper PDF that README.md links to must stay tracked.
+!paper/
+!paper/*.pdf
+
+# ------------------------------------------------------------------------- misc
+*.bak
+*.tmp
+*.orig
+*.rej
+*.bib.backup
+
+# ------------------------------------------------------- local-only maintainer tool
+# The list generator is kept locally but not published: the committed README.md
+# is the source of truth, so contributors edit it directly.
+build_readme.py
+
+# Local-only paper source (LaTeX + bib) and the style-reference file; not published.
+# The compiled PDF in paper/ is the public artifact.
+survey_last/
+参考.md
