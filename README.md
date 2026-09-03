@@ -13,6 +13,7 @@ evaluation signals drive data updates that improve foundation models across roun
 
 <p align="center">
   <a href="#toc"><img alt="Papers" src="https://img.shields.io/badge/papers-300-6C5CE7?style=flat-square"></a>
+  <a href="https://www.preprints.org/manuscript/202609.0154"><img alt="Paper Preprint" src="https://img.shields.io/badge/Paper-Preprint-3B82F6?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
   <a href="paper/dcri_survey_2026.pdf"><img alt="Paper PDF" src="https://img.shields.io/badge/Paper-PDF-D14836?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
   <a href="https://openreview.net/forum?id=zGqv8Jsh4Y"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-Paper-8C1B13?style=flat-square&amp;logo=openreview&amp;logoColor=white"></a>
   <a href="https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zoezou2015/Awesome-Data-Centric-Recursive-Improvement?style=social"></a>
@@ -924,14 +925,14 @@ pull-request checklist.
 If you find this survey or reading map useful, please consider citing:
 
 ```bibtex
-@article{zou2026datacentric,
-      title={Data-Centric Recursive Improvement for Foundation Models: A Survey},
-      author={Zou, Yanyan and Chen, Chao and Kwok, Tung Sum Thomas and Yang, Jiayu and
-              Hou, Yunyun and Zhu, Jingmin and Luo, Zehang and Li, Shengjie and
-              Liu, Yinhong and Wan, Yingjia and Li, Chengzu and Yu, Tao and
-              Guo, Zhijiang and Liu, Jiachen and Wang, Sirui and Duan, Nan},
-      year={2026},
-      note={Preprint},
-      url={https://openreview.net/forum?id=zGqv8Jsh4Y}
+@article{202609.0154,
+	doi = {10.20944/preprints202609.0154.v1},
+	url = {https://doi.org/10.20944/preprints202609.0154.v1},
+	year = 2026,
+	month = {September},
+	publisher = {Preprints},
+	author = {Yanyan Zou and Chao Chen and Tung Sum Thomas Kwok and Jiayu Yang and Yunyun Hou and Jingmin Zhu and Zehang Luo and Shengjie Li and Yinhong Liu and Yingjia Wan and Chengzu Li and Tao Yu and Zhijiang Guo and Jiachen Liu and Sirui Wang and Nan Duan},
+	title = {Data-Centric Recursive Improvement for Foundation Models: A Survey},
+	journal = {Preprints}
 }
 ```
