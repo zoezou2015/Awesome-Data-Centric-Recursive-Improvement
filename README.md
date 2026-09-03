@@ -13,7 +13,7 @@ evaluation signals drive data updates that improve foundation models across roun
 
 <p align="center">
   <a href="#toc"><img alt="Papers" src="https://img.shields.io/badge/papers-300-6C5CE7?style=flat-square"></a>
-  <a href="https://www.preprints.org/manuscript/202609.0154"><img alt="Paper Preprint" src="https://img.shields.io/badge/Paper-Preprint-3B82F6?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
+  <a href="https://www.preprints.org/manuscript/202609.0154"><img alt="Paper Preprint" src="https://img.shields.io/badge/Paper-Preprint-E74C3C?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
   <a href="paper/dcri_survey_2026.pdf"><img alt="Paper PDF" src="https://img.shields.io/badge/Paper-PDF-D14836?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
   <a href="https://openreview.net/forum?id=zGqv8Jsh4Y"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-Paper-8C1B13?style=flat-square&amp;logo=openreview&amp;logoColor=white"></a>
   <a href="https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zoezou2015/Awesome-Data-Centric-Recursive-Improvement?style=social"></a>
