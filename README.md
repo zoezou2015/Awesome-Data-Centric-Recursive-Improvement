@@ -52,7 +52,7 @@ actually discussed there.
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2026.09**: 📄 Paper available on [PrePrints]([https://openreview.net/forum?id=zGqv8Jsh4Y](https://www.preprints.org/manuscript/202609.0154)).
+- **2026.09**: 📄 Paper available on [PrePrints](https://www.preprints.org/manuscript/202609.0154).
 - **2026.08**: 🎉 Released this repository as the reading map for *Data-Centric Recursive
   Improvement for Foundation Models: A Survey* (**300 cited works**, 2020–2026).
 - **2026.08**: 📄 Paper available on [OpenReview](https://openreview.net/forum?id=zGqv8Jsh4Y)
